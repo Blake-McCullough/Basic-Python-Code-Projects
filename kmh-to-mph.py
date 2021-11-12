@@ -1,4 +1,7 @@
-
+#Made By Blake McCullough
+#Discord - Spoiled_Kitten#4911
+#Github - https://github.com/Blake-McCullough/
+#Email - privblakemccullough@protonmail.com
 choice = int(input("Would you like to \n 1- Convert KPH to MPH \n 2- Convert MPH to KPH\n"))
 
 if choice == 1:
