@@ -1,3 +1,8 @@
+#Made By Blake McCullough
+#Discord - Spoiled_Kitten#4911
+#Github - https://github.com/Blake-McCullough/
+#Email - privblakemccullough@protonmail.com
+
 num = int(input("please enter a number")) #asks for a number
 
 for number in range(1,13):
