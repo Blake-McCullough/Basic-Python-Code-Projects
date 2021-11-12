@@ -1,3 +1,7 @@
+#Made By Blake McCullough
+#Discord - Spoiled_Kitten#4911
+#Github - https://github.com/Blake-McCullough/
+#Email - privblakemccullough@protonmail.com
 import random
 print("Random number guesser by Blake McCullough")
 random_number = random.randint(1,100)
